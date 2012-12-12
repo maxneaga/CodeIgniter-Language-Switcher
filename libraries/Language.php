@@ -3,9 +3,9 @@
 * Name:  Language Switcher
 *
 * Author: Maxim Neaga
-*		  neagamaxim@gmail.com
+*	neagamaxim@gmail.com
 *
-* Location: http://github.com/
+* Location: https://github.com/maxneaga/CodeIgniter-Language-Switcher/
 *
 * Created:  12.12.2012
 *
